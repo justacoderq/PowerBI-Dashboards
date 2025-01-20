@@ -7,7 +7,12 @@ Welcome to my Power BI Dashboards Repository! This repository contains a collect
 This repository contains the following dashboard project:
 
 - HR Analytics Dashboard: A dashboard that displays HR data for a company, including Attrition count of Employees, Job Satisfaction rate, and Job Roles.
-- Financial Report Dashboard: A dashboard that displays a summary on profits of a company. 
+  ![image](https://github.com/user-attachments/assets/cc06305a-7a7d-45c6-b059-f9a9c38cf3fb)
+
+
+- Financial Report Dashboard: A dashboard that displays a summary on profits of a company.
+  ![image](https://github.com/user-attachments/assets/879aea4e-bba2-416b-8059-ba09ab62cefb)
+
 
 Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.
 

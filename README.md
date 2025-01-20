@@ -14,6 +14,7 @@ This repository contains the following dashboard project:
   ![image](https://github.com/user-attachments/assets/879aea4e-bba2-416b-8059-ba09ab62cefb)
 
 - Spotify 2023 Dashboard- A dashboard that shocases most streamed song using different KPI's
+![image](https://github.com/user-attachments/assets/c71656ec-8854-4f53-9642-69401a7da48c)
 
 
 Each project folder contains a README.md file that describes the purpose of the dashboard, the data sources used, and any other relevant information. You can also find screenshots of the dashboard.

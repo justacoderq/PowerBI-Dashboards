@@ -1,7 +1,3 @@
-[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgxMTFlYjctMDRmZi00NzliLTgyN2EtY2NiZGU0ZDQxODU2IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9&pageName=ReportSection)
-
-[Link to the dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)
-
 ***This project is a PowerBI dashboard to showcase different KPIs about the most Spotify streamed songs for 2023***
 
 ***Here are the different measures that I created for this project***
